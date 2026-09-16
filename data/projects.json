@@ -1,0 +1,401 @@
+[
+  {
+    "id": "aurora-commerce",
+    "title": "Aurora Commerce Platform",
+    "client": "Aurora Retail Group",
+    "year": 2025,
+    "industry": "E-commerce",
+    "services": [
+      "Web Design",
+      "Development",
+      "UX Research"
+    ],
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Shopify",
+      "Tailwind CSS"
+    ],
+    "shortDescription": "A high-conversion headless storefront for a multi-brand retailer.",
+    "challenge": "Aurora's legacy storefront was slow, hard to personalize, and bled conversions at checkout. Multiple brands shared one rigid template with no real inventory visibility.",
+    "solution": "We rebuilt the entire experience as a headless commerce platform. Shopify powered the backend while a custom Next.js frontend delivered speed, personalization, and a dramatically simpler checkout.",
+    "results": "Checkout abandonment dropped 28%. Page load times improved by 62%. The new architecture now supports 12 warehouses with real-time stock.",
+    "metrics": [
+      {
+        "value": "28%",
+        "label": "Lower abandonment"
+      },
+      {
+        "value": "62%",
+        "label": "Faster load"
+      },
+      {
+        "value": "12",
+        "label": "Warehouses synced"
+      }
+    ],
+    "features": [
+      "Headless architecture with Shopify as the commerce engine",
+      "Personalized product recommendations",
+      "One-page checkout with Apple Pay and Google Pay",
+      "Real-time inventory across 12 warehouses",
+      "WCAG 2.2 AA accessibility"
+    ],
+    "thumbnail": "assets/aurora-commerce.jpg",
+    "gallery": [
+      "assets/aurora-commerce.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": true
+  },
+  {
+    "id": "pulse-fitness",
+    "title": "Pulse Fitness App",
+    "client": "Pulse Health",
+    "year": 2025,
+    "industry": "Health & Fitness",
+    "services": [
+      "Mobile App",
+      "UI Design",
+      "Product Strategy"
+    ],
+    "technologies": [
+      "React Native",
+      "Firebase",
+      "Figma",
+      "GraphQL"
+    ],
+    "shortDescription": "Cross-platform workout companion with adaptive coaching.",
+    "challenge": "Pulse had a basic tracker that users abandoned after two weeks. They needed a true coaching experience that adapted to progress and kept people coming back.",
+    "solution": "We designed and built a cross-platform app with adaptive workout plans, live classes, social challenges, and seamless wearable integration \u2014 all optimized for real gym environments.",
+    "results": "30-day retention rose from 18% to 47%. Average session length more than doubled. App Store rating climbed to 4.8.",
+    "metrics": [
+      {
+        "value": "47%",
+        "label": "30-day retention"
+      },
+      {
+        "value": "2.1\u00d7",
+        "label": "Session length"
+      },
+      {
+        "value": "4.8",
+        "label": "App Store rating"
+      }
+    ],
+    "features": [
+      "Adaptive workout engine based on progress",
+      "Live classes and on-demand library",
+      "Social challenges and leaderboards",
+      "Apple Health and Google Fit sync",
+      "Offline mode for gym environments"
+    ],
+    "thumbnail": "assets/pulse-fitness.jpg",
+    "gallery": [
+      "assets/pulse-fitness.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": true
+  },
+  {
+    "id": "lumen-banking",
+    "title": "Lumen Banking Dashboard",
+    "client": "Lumen Financial",
+    "year": 2024,
+    "industry": "Fintech",
+    "services": [
+      "Web App",
+      "Dashboard Design",
+      "Development"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "D3.js",
+      "PostgreSQL"
+    ],
+    "shortDescription": "Operations dashboard for real-time risk and transactions.",
+    "challenge": "Operations teams were switching between six different tools to monitor transactions, risk, and support tickets. Context switching was killing response times.",
+    "solution": "A unified real-time dashboard that brings transactions, risk signals, and support queues into one high-performance interface designed for long shifts and high data volume.",
+    "results": "Average incident response time fell by 41%. Teams reported significantly lower cognitive load during peak hours.",
+    "metrics": [
+      {
+        "value": "41%",
+        "label": "Faster response"
+      },
+      {
+        "value": "6\u21921",
+        "label": "Tools consolidated"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime"
+      }
+    ],
+    "features": [
+      "Real-time transaction monitoring",
+      "Customizable risk alert rules",
+      "Role-based access control",
+      "Exportable audit reports",
+      "Dark-mode layout for operations teams"
+    ],
+    "thumbnail": "assets/lumen-banking.jpg",
+    "gallery": [
+      "assets/lumen-banking.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": false
+  },
+  {
+    "id": "verde-impact",
+    "title": "Verde Impact Site",
+    "client": "Verde Collective",
+    "year": 2024,
+    "industry": "Sustainability",
+    "services": [
+      "Web Design",
+      "Development",
+      "Motion Design"
+    ],
+    "technologies": [
+      "Astro",
+      "GSAP",
+      "Contentful",
+      "Vercel"
+    ],
+    "shortDescription": "Story-driven climate-tech site with interactive impact data.",
+    "challenge": "Verde had strong data but a weak story. Their previous site felt corporate and failed to communicate real climate impact to both investors and the public.",
+    "solution": "A scroll-driven narrative experience that turns metrics into an emotional journey, backed by interactive visualizations and a CMS-powered case study archive.",
+    "results": "Time on site increased 3.4\u00d7. Lead quality from the site improved noticeably according to their sales team.",
+    "metrics": [
+      {
+        "value": "3.4\u00d7",
+        "label": "Time on site"
+      },
+      {
+        "value": "98+",
+        "label": "Lighthouse score"
+      },
+      {
+        "value": "2",
+        "label": "Languages"
+      }
+    ],
+    "features": [
+      "Scroll-triggered storytelling",
+      "Interactive carbon impact calculator",
+      "CMS-powered project archive",
+      "Lighthouse 98+ performance",
+      "English and Spanish content"
+    ],
+    "thumbnail": "assets/verde-impact.jpg",
+    "gallery": [
+      "assets/verde-impact.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": true
+  },
+  {
+    "id": "nexus-workspace",
+    "title": "Nexus Project Workspace",
+    "client": "Nexus Labs",
+    "year": 2024,
+    "industry": "SaaS",
+    "services": [
+      "Product Design",
+      "Web App",
+      "Design System"
+    ],
+    "technologies": [
+      "Vue 3",
+      "TypeScript",
+      "Supabase",
+      "Storybook"
+    ],
+    "shortDescription": "Collaborative workspace for distributed product teams.",
+    "challenge": "Nexus needed a flexible workspace that could replace three separate tools while remaining simple enough for non-technical users.",
+    "solution": "We designed and built their flagship SaaS from research through a production-ready design system, supporting multiple views and real-time collaboration.",
+    "results": "The product launched on schedule. Early customers reduced tool spend by an average of 40%.",
+    "metrics": [
+      {
+        "value": "40%",
+        "label": "Tool cost saved"
+      },
+      {
+        "value": "3",
+        "label": "Views supported"
+      },
+      {
+        "value": "SOC 2",
+        "label": "Ready"
+      }
+    ],
+    "features": [
+      "Kanban, timeline, and list views",
+      "Real-time multiplayer editing",
+      "Custom fields and automation",
+      "Storybook-backed design system",
+      "SOC 2 ready architecture"
+    ],
+    "thumbnail": "assets/nexus-workspace.jpg",
+    "gallery": [
+      "assets/nexus-workspace.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": false
+  },
+  {
+    "id": "atelier-experience",
+    "title": "Atelier Brand Experience",
+    "client": "Atelier Studio",
+    "year": 2023,
+    "industry": "Creative",
+    "services": [
+      "Web Design",
+      "Branding",
+      "Development"
+    ],
+    "technologies": [
+      "Webflow",
+      "GSAP",
+      "Figma"
+    ],
+    "shortDescription": "Motion-rich portfolio for a boutique creative studio.",
+    "challenge": "Atelier's previous site underrepresented the quality of their work. It felt generic and failed to convey craft.",
+    "solution": "A carefully paced, motion-rich experience that puts large imagery first and keeps interaction quiet and intentional \u2014 while staying fast under heavy media.",
+    "results": "Inbound inquiries from the site increased significantly. The site itself became a talking point in new business meetings.",
+    "metrics": [
+      {
+        "value": "\u2191",
+        "label": "Inbound leads"
+      },
+      {
+        "value": "Fast",
+        "label": "Under heavy media"
+      },
+      {
+        "value": "Mobile",
+        "label": "First approach"
+      }
+    ],
+    "features": [
+      "Custom hover states and transitions",
+      "CMS-managed case studies",
+      "Optimized image delivery",
+      "Mobile-first responsive system",
+      "Quiet, gallery-led navigation"
+    ],
+    "thumbnail": "assets/atelier-experience.jpg",
+    "gallery": [
+      "assets/atelier-experience.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": false
+  },
+  {
+    "id": "harbor-logistics",
+    "title": "Harbor Logistics Portal",
+    "client": "Harbor Logistics",
+    "year": 2023,
+    "industry": "Logistics",
+    "services": [
+      "Web App",
+      "UX Research",
+      "Development"
+    ],
+    "technologies": [
+      "Angular",
+      "Node.js",
+      "MongoDB",
+      "Mapbox"
+    ],
+    "shortDescription": "Client portal for live shipment tracking and documents.",
+    "challenge": "Clients relied on email chains and phone calls for shipment status and documents. Exceptions were slow to surface and expensive to resolve.",
+    "solution": "A dedicated client portal with live map tracking, document exchange, e-signature, and role-based views for both clients and internal agents.",
+    "results": "Support ticket volume related to 'where is my shipment' dropped sharply. Document turnaround improved from days to hours.",
+    "metrics": [
+      {
+        "value": "\u2193",
+        "label": "Support tickets"
+      },
+      {
+        "value": "Hours",
+        "label": "Doc turnaround"
+      },
+      {
+        "value": "Live",
+        "label": "Map tracking"
+      }
+    ],
+    "features": [
+      "Map-based live shipment tracking",
+      "Document upload and e-signature",
+      "Automated status notifications",
+      "Multi-tenant architecture",
+      "Role-based client and agent views"
+    ],
+    "thumbnail": "assets/harbor-logistics.jpg",
+    "gallery": [
+      "assets/harbor-logistics.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": false
+  },
+  {
+    "id": "echo-podcast",
+    "title": "Echo Podcast Platform",
+    "client": "Echo Media",
+    "year": 2023,
+    "industry": "Media",
+    "services": [
+      "Web Design",
+      "Development",
+      "Audio UX"
+    ],
+    "technologies": [
+      "Nuxt",
+      "Stripe",
+      "Cloudflare",
+      "Tailwind CSS"
+    ],
+    "shortDescription": "Subscription podcast network with a calm listening UI.",
+    "challenge": "Echo's shows were growing but the listening experience was fragmented across apps and a basic website. Monetization was limited.",
+    "solution": "A content-first platform with a custom player, personalized recommendations, membership tiers, and embeddable players for partners.",
+    "results": "Paid membership conversion exceeded projections. Partner embeds drove meaningful new discovery.",
+    "metrics": [
+      {
+        "value": "\u2191",
+        "label": "Paid conversions"
+      },
+      {
+        "value": "Embed",
+        "label": "Partner growth"
+      },
+      {
+        "value": "SEO",
+        "label": "Ready pages"
+      }
+    ],
+    "features": [
+      "Custom audio player with chapters",
+      "Personalized recommendations",
+      "Membership tiers via Stripe",
+      "SEO-ready show and episode pages",
+      "Embeddable player for partners"
+    ],
+    "thumbnail": "assets/echo-podcast.jpg",
+    "gallery": [
+      "assets/echo-podcast.jpg"
+    ],
+    "liveUrl": null,
+    "liveDemo": null,
+    "featured": false
+  }
+]
