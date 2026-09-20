@@ -39,7 +39,7 @@ Built to impress potential clients while remaining extremely easy for the agency
 ## Folder structure
 
 ```
-ReaLence Solutions/
+realence-case-study-portfolio/
 ├── index.html
 ├── css/styles.css
 ├── js/app.js
