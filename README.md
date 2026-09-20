@@ -1,4 +1,4 @@
-# Designkraft — Professional Case-Study Portfolio
+# ReaLence Solutions — Professional Case-Study Portfolio
 
 A polished, modern way for a digital agency to showcase its work.
 
@@ -39,7 +39,7 @@ Built to impress potential clients while remaining extremely easy for the agency
 ## Folder structure
 
 ```
-designkraft-upgraded/
+ReaLence Solutions/
 ├── index.html
 ├── css/styles.css
 ├── js/app.js
@@ -55,7 +55,7 @@ designkraft-upgraded/
 You must serve the folder (so the JSON can load):
 
 ```bash
-cd designkraft-upgraded
+cd ReaLence Solutions-upgraded
 python -m http.server 8080
 ```
 
